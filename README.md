@@ -106,22 +106,18 @@ pnpm dev      # o npm run dev
 #Rutas principales:
 
 /login – login
-
 /register – registro
-
 /debts – listado, filtros, ordenar, pagar
-
 /debts/new – crear deuda
-
 /debts/summary – agregados
 
-#📜 Swagger
+## 📜 Swagger
 
 Auth: http://localhost:5267/swagger
 
 Debts: http://localhost:5001/swagger
 
-##📨 Postman
+## 📨 Postman
 
 Importa postman/Auth+Debts.postman_collection.json.
 
